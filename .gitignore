@@ -1,0 +1,7 @@
+.vscode
+analysis/
+benchmark/
+build/
+kmeans_par*
+kmeans_seq*
+kmeans_output.csv
